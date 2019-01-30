@@ -1,0 +1,157 @@
+K:\Unity\Prototype 2\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+K:\Unity\Prototype 2\Temp\bin\Debug\Assembly-CSharp.dll
+K:\Unity\Prototype 2\Temp\bin\Debug\Assembly-CSharp.pdb
+K:\Unity\Prototype 2\Temp\bin\Debug\nunit.framework.dll
+K:\Unity\Prototype 2\Temp\bin\Debug\UnityEditor.dll
+K:\Unity\Prototype 2\Temp\bin\Debug\UnityEngine.Analytics.dll
+K:\Unity\Prototype 2\Temp\bin\Debug\UnityEngine.dll
+K:\Unity\Prototype 2\Temp\bin\Debug\UnityEngine.HoloLens.dll
+K:\Unity\Prototype 2\Temp\bin\Debug\UnityEngine.Networking.dll
+K:\Unity\Prototype 2\Temp\bin\Debug\UnityEngine.TestRunner.dll
+K:\Unity\Prototype 2\Temp\bin\Debug\UnityEngine.UI.dll
+K:\Unity\Prototype 2\Temp\bin\Debug\UnityEngine.VR.dll
+K:\Unity\Prototype 2\Temp\bin\Debug\Mono.Cecil.dll
+K:\Unity\Prototype 2\Temp\bin\Debug\Unity.SerializationLogic.dll
+K:\Unity\Prototype 2\Temp\bin\Debug\Unity.DataContract.dll
+K:\Unity\Prototype 2\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+K:\Unity\Prototype 2\Temp\bin\Debug\Unity.UNetWeaver.dll
+K:\Unity\Prototype 2\Temp\bin\Debug\Unity.CecilTools.dll
+K:\Unity\Prototype 2\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+K:\Unity\Prototype 2\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+K:\Unity\Prototype 2\Temp\bin\Debug\UnityEngine.xml
+K:\Unity\Prototype 2\Temp\bin\Debug\UnityEditor.xml
+K:\Unity\Prototype 2\Temp\bin\Debug\UnityEngine.UI.xml
+K:\Unity\Prototype 2\Temp\bin\Debug\UnityEngine.Networking.xml
+K:\Unity\Prototype 2\Temp\bin\Debug\UnityEngine.TestRunner.xml
+K:\Unity\Prototype 2\Temp\bin\Debug\nunit.framework.xml
+K:\Unity\Prototype 2\Temp\bin\Debug\UnityEngine.Analytics.xml
+K:\Unity\Prototype 2\Temp\bin\Debug\UnityEngine.HoloLens.xml
+K:\Unity\Prototype 2\Temp\bin\Debug\UnityEngine.VR.xml
+K:\Unity\Prototype 2\obj\Debug\Assembly-CSharp.dll
+K:\Unity\Prototype 2\obj\Debug\Assembly-CSharp.pdb
+K:\Unity\Prototype 3\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+K:\Unity\Prototype 3\obj\Debug\Assembly-CSharp.dll
+K:\Unity\Prototype 3\obj\Debug\Assembly-CSharp.pdb
+K:\Unity\Prototype 3\Temp\bin\Debug\Assembly-CSharp.dll
+K:\Unity\Prototype 3\Temp\bin\Debug\Assembly-CSharp.pdb
+K:\Unity\Prototype 3\Temp\bin\Debug\nunit.framework.dll
+K:\Unity\Prototype 3\Temp\bin\Debug\UnityEditor.dll
+K:\Unity\Prototype 3\Temp\bin\Debug\UnityEngine.Analytics.dll
+K:\Unity\Prototype 3\Temp\bin\Debug\UnityEngine.dll
+K:\Unity\Prototype 3\Temp\bin\Debug\UnityEngine.HoloLens.dll
+K:\Unity\Prototype 3\Temp\bin\Debug\UnityEngine.Networking.dll
+K:\Unity\Prototype 3\Temp\bin\Debug\UnityEngine.TestRunner.dll
+K:\Unity\Prototype 3\Temp\bin\Debug\UnityEngine.UI.dll
+K:\Unity\Prototype 3\Temp\bin\Debug\UnityEngine.VR.dll
+K:\Unity\Prototype 3\Temp\bin\Debug\Mono.Cecil.dll
+K:\Unity\Prototype 3\Temp\bin\Debug\Unity.SerializationLogic.dll
+K:\Unity\Prototype 3\Temp\bin\Debug\Unity.DataContract.dll
+K:\Unity\Prototype 3\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+K:\Unity\Prototype 3\Temp\bin\Debug\Unity.UNetWeaver.dll
+K:\Unity\Prototype 3\Temp\bin\Debug\Unity.CecilTools.dll
+K:\Unity\Prototype 3\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+K:\Unity\Prototype 3\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+K:\Unity\Prototype 3\Temp\bin\Debug\UnityEngine.xml
+K:\Unity\Prototype 3\Temp\bin\Debug\UnityEditor.xml
+K:\Unity\Prototype 3\Temp\bin\Debug\UnityEngine.UI.xml
+K:\Unity\Prototype 3\Temp\bin\Debug\UnityEngine.Networking.xml
+K:\Unity\Prototype 3\Temp\bin\Debug\UnityEngine.TestRunner.xml
+K:\Unity\Prototype 3\Temp\bin\Debug\nunit.framework.xml
+K:\Unity\Prototype 3\Temp\bin\Debug\UnityEngine.Analytics.xml
+K:\Unity\Prototype 3\Temp\bin\Debug\UnityEngine.HoloLens.xml
+K:\Unity\Prototype 3\Temp\bin\Debug\UnityEngine.VR.xml
+K:\Unity\Prototype 5\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+K:\Unity\Prototype 5\obj\Debug\Assembly-CSharp.dll
+K:\Unity\Prototype 5\obj\Debug\Assembly-CSharp.pdb
+K:\Unity\Prototype 5\Temp\bin\Debug\Assembly-CSharp.dll
+K:\Unity\Prototype 5\Temp\bin\Debug\Assembly-CSharp.pdb
+K:\Unity\Prototype 5\Temp\bin\Debug\nunit.framework.dll
+K:\Unity\Prototype 5\Temp\bin\Debug\UnityEditor.dll
+K:\Unity\Prototype 5\Temp\bin\Debug\UnityEngine.Analytics.dll
+K:\Unity\Prototype 5\Temp\bin\Debug\UnityEngine.dll
+K:\Unity\Prototype 5\Temp\bin\Debug\UnityEngine.HoloLens.dll
+K:\Unity\Prototype 5\Temp\bin\Debug\UnityEngine.Networking.dll
+K:\Unity\Prototype 5\Temp\bin\Debug\UnityEngine.TestRunner.dll
+K:\Unity\Prototype 5\Temp\bin\Debug\UnityEngine.UI.dll
+K:\Unity\Prototype 5\Temp\bin\Debug\UnityEngine.VR.dll
+K:\Unity\Prototype 5\Temp\bin\Debug\Mono.Cecil.dll
+K:\Unity\Prototype 5\Temp\bin\Debug\Unity.SerializationLogic.dll
+K:\Unity\Prototype 5\Temp\bin\Debug\Unity.DataContract.dll
+K:\Unity\Prototype 5\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+K:\Unity\Prototype 5\Temp\bin\Debug\Unity.UNetWeaver.dll
+K:\Unity\Prototype 5\Temp\bin\Debug\Unity.CecilTools.dll
+K:\Unity\Prototype 5\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+K:\Unity\Prototype 5\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+K:\Unity\Prototype 5\Temp\bin\Debug\UnityEngine.xml
+K:\Unity\Prototype 5\Temp\bin\Debug\UnityEditor.xml
+K:\Unity\Prototype 5\Temp\bin\Debug\UnityEngine.UI.xml
+K:\Unity\Prototype 5\Temp\bin\Debug\UnityEngine.Networking.xml
+K:\Unity\Prototype 5\Temp\bin\Debug\UnityEngine.TestRunner.xml
+K:\Unity\Prototype 5\Temp\bin\Debug\nunit.framework.xml
+K:\Unity\Prototype 5\Temp\bin\Debug\UnityEngine.Analytics.xml
+K:\Unity\Prototype 5\Temp\bin\Debug\UnityEngine.HoloLens.xml
+K:\Unity\Prototype 5\Temp\bin\Debug\UnityEngine.VR.xml
+K:\2D Game\2d proj\neproje\Temp\bin\Debug\Assembly-CSharp.dll
+K:\2D Game\2d proj\neproje\Temp\bin\Debug\Assembly-CSharp.pdb
+K:\2D Game\2d proj\neproje\Temp\bin\Debug\Facebook.Unity.Settings.dll
+K:\2D Game\2d proj\neproje\Temp\bin\Debug\nunit.framework.dll
+K:\2D Game\2d proj\neproje\Temp\bin\Debug\UnityEditor.dll
+K:\2D Game\2d proj\neproje\Temp\bin\Debug\UnityEngine.Analytics.dll
+K:\2D Game\2d proj\neproje\Temp\bin\Debug\UnityEngine.dll
+K:\2D Game\2d proj\neproje\Temp\bin\Debug\UnityEngine.HoloLens.dll
+K:\2D Game\2d proj\neproje\Temp\bin\Debug\UnityEngine.Networking.dll
+K:\2D Game\2d proj\neproje\Temp\bin\Debug\UnityEngine.TestRunner.dll
+K:\2D Game\2d proj\neproje\Temp\bin\Debug\UnityEngine.UI.dll
+K:\2D Game\2d proj\neproje\Temp\bin\Debug\UnityEngine.VR.dll
+K:\2D Game\2d proj\neproje\Temp\bin\Debug\Mono.Cecil.dll
+K:\2D Game\2d proj\neproje\Temp\bin\Debug\Unity.SerializationLogic.dll
+K:\2D Game\2d proj\neproje\Temp\bin\Debug\Unity.DataContract.dll
+K:\2D Game\2d proj\neproje\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+K:\2D Game\2d proj\neproje\Temp\bin\Debug\Unity.UNetWeaver.dll
+K:\2D Game\2d proj\neproje\Temp\bin\Debug\Unity.CecilTools.dll
+K:\2D Game\2d proj\neproje\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+K:\2D Game\2d proj\neproje\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+K:\2D Game\2d proj\neproje\Temp\bin\Debug\UnityEngine.xml
+K:\2D Game\2d proj\neproje\Temp\bin\Debug\UnityEditor.xml
+K:\2D Game\2d proj\neproje\Temp\bin\Debug\UnityEngine.UI.xml
+K:\2D Game\2d proj\neproje\Temp\bin\Debug\UnityEngine.Networking.xml
+K:\2D Game\2d proj\neproje\Temp\bin\Debug\UnityEngine.TestRunner.xml
+K:\2D Game\2d proj\neproje\Temp\bin\Debug\nunit.framework.xml
+K:\2D Game\2d proj\neproje\Temp\bin\Debug\UnityEngine.Analytics.xml
+K:\2D Game\2d proj\neproje\Temp\bin\Debug\UnityEngine.HoloLens.xml
+K:\2D Game\2d proj\neproje\Temp\bin\Debug\UnityEngine.VR.xml
+K:\2D Game\2d proj\neproje\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+K:\2D Game\2d proj\neproje\obj\Debug\Assembly-CSharp.dll
+K:\2D Game\2d proj\neproje\obj\Debug\Assembly-CSharp.pdb
+K:\Unity\Prototype 9\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+K:\Unity\Prototype 9\obj\Debug\Assembly-CSharp.dll
+K:\Unity\Prototype 9\obj\Debug\Assembly-CSharp.pdb
+K:\Unity\Prototype 9\Temp\bin\Debug\Assembly-CSharp.dll
+K:\Unity\Prototype 9\Temp\bin\Debug\Assembly-CSharp.pdb
+K:\Unity\Prototype 9\Temp\bin\Debug\Facebook.Unity.Settings.dll
+K:\Unity\Prototype 9\Temp\bin\Debug\nunit.framework.dll
+K:\Unity\Prototype 9\Temp\bin\Debug\UnityEditor.dll
+K:\Unity\Prototype 9\Temp\bin\Debug\UnityEngine.Analytics.dll
+K:\Unity\Prototype 9\Temp\bin\Debug\UnityEngine.dll
+K:\Unity\Prototype 9\Temp\bin\Debug\UnityEngine.HoloLens.dll
+K:\Unity\Prototype 9\Temp\bin\Debug\UnityEngine.Networking.dll
+K:\Unity\Prototype 9\Temp\bin\Debug\UnityEngine.TestRunner.dll
+K:\Unity\Prototype 9\Temp\bin\Debug\UnityEngine.UI.dll
+K:\Unity\Prototype 9\Temp\bin\Debug\UnityEngine.VR.dll
+K:\Unity\Prototype 9\Temp\bin\Debug\Mono.Cecil.dll
+K:\Unity\Prototype 9\Temp\bin\Debug\Unity.SerializationLogic.dll
+K:\Unity\Prototype 9\Temp\bin\Debug\Unity.DataContract.dll
+K:\Unity\Prototype 9\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+K:\Unity\Prototype 9\Temp\bin\Debug\Unity.UNetWeaver.dll
+K:\Unity\Prototype 9\Temp\bin\Debug\Unity.CecilTools.dll
+K:\Unity\Prototype 9\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+K:\Unity\Prototype 9\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+K:\Unity\Prototype 9\Temp\bin\Debug\UnityEngine.xml
+K:\Unity\Prototype 9\Temp\bin\Debug\UnityEditor.xml
+K:\Unity\Prototype 9\Temp\bin\Debug\UnityEngine.UI.xml
+K:\Unity\Prototype 9\Temp\bin\Debug\UnityEngine.Networking.xml
+K:\Unity\Prototype 9\Temp\bin\Debug\UnityEngine.TestRunner.xml
+K:\Unity\Prototype 9\Temp\bin\Debug\nunit.framework.xml
+K:\Unity\Prototype 9\Temp\bin\Debug\UnityEngine.Analytics.xml
+K:\Unity\Prototype 9\Temp\bin\Debug\UnityEngine.HoloLens.xml
+K:\Unity\Prototype 9\Temp\bin\Debug\UnityEngine.VR.xml

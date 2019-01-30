@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: e8513d8ee606bac4189a506cf78cde4a
+timeCreated: 1510589329
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: can_0
+    21300002: can_1
+    21300004: can_2
+    21300006: can_3
+    21300008: can_4
+    21300010: can_5
+    21300012: can_6
+    21300014: can_7
+    21300016: can_8
+    21300018: can_9
+    21300020: can_10
+    21300022: can_11
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: tvOS
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Tizen
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Samsung TV
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: can_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 256
+        width: 96
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: can_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 96
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: can_2
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 256
+        width: 96
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: can_3
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 256
+        width: 96
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: can_4
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 127
+        width: 96
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: can_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 96
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: can_6
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 126
+        width: 96
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: can_7
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 128
+        width: 96
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: can_8
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1
+        width: 96
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: can_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: can_10
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 0
+        width: 96
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: can_11
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 0
+        width: 96
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline:
+    - - {x: -154, y: -70}
+      - {x: -162, y: -73}
+      - {x: -162, y: -185}
+      - {x: -101, y: -185}
+      - {x: -101, y: -74}
+      - {x: -104, y: -70}
+    - - {x: -75, y: -176}
+      - {x: -67, y: -185}
+      - {x: -26, y: -185}
+      - {x: -14, y: -181}
+      - {x: -14, y: -70}
+      - {x: -66, y: -70}
+      - {x: -75, y: -78}
+    - - {x: 13, y: -70}
+      - {x: 12, y: -84}
+      - {x: 12, y: -178}
+      - {x: 23, y: -185}
+      - {x: 72, y: -185}
+      - {x: 73, y: -177}
+      - {x: 73, y: -77}
+      - {x: 64, y: -70}
+    - - {x: 116, y: -70}
+      - {x: 106, y: -72}
+      - {x: 102, y: -80}
+      - {x: 102, y: -176}
+      - {x: 114, y: -185}
+      - {x: 146, y: -185}
+      - {x: 158, y: -183}
+      - {x: 163, y: -172}
+      - {x: 163, y: -83}
+      - {x: 152, y: -70}
+    - - {x: -162, y: 43}
+      - {x: -162, y: -49}
+      - {x: -154, y: -59}
+      - {x: -113, y: -59}
+      - {x: -101, y: -55}
+      - {x: -101, y: 56}
+      - {x: -151, y: 56}
+      - {x: -155, y: 51}
+    - - {x: -15, y: 56}
+      - {x: -67, y: 56}
+      - {x: -75, y: 53}
+      - {x: -75, y: -54}
+      - {x: -74, y: -59}
+      - {x: -14, y: -59}
+      - {x: -14, y: 55}
+    - - {x: 12, y: 56}
+      - {x: 12, y: -49}
+      - {x: 13, y: -59}
+      - {x: 60, y: -59}
+      - {x: 73, y: -47}
+      - {x: 73, y: 53}
+      - {x: 64, y: 56}
+    - - {x: 153, y: 56}
+      - {x: 116, y: 56}
+      - {x: 106, y: 54}
+      - {x: 102, y: 43}
+      - {x: 102, y: -48}
+      - {x: 116, y: -59}
+      - {x: 152, y: -59}
+      - {x: 163, y: -47}
+      - {x: 163, y: 45}
+    - - {x: -155, y: 173}
+      - {x: -162, y: 170}
+      - {x: -162, y: 67}
+      - {x: -150, y: 58}
+      - {x: -102, y: 58}
+      - {x: -101, y: 68}
+      - {x: -101, y: 172}
+      - {x: -102, y: 173}
+    - - {x: -31, y: 173}
+      - {x: -67, y: 173}
+      - {x: -75, y: 167}
+      - {x: -75, y: 58}
+      - {x: -14, y: 58}
+      - {x: -14, y: 160}
+      - {x: -19, y: 171}
+    - - {x: 56, y: 173}
+      - {x: 21, y: 173}
+      - {x: 12, y: 163}
+      - {x: 12, y: 67}
+      - {x: 24, y: 58}
+      - {x: 72, y: 58}
+      - {x: 73, y: 68}
+      - {x: 73, y: 167}
+      - {x: 68, y: 171}
+    - - {x: 109, y: 173}
+      - {x: 102, y: 171}
+      - {x: 102, y: 65}
+      - {x: 108, y: 61}
+      - {x: 122, y: 58}
+      - {x: 152, y: 58}
+      - {x: 163, y: 66}
+      - {x: 163, y: 164}
+      - {x: 155, y: 173}
+    - - {x: -85, y: 182}
+      - {x: -87, y: 180}
+      - {x: -87, y: 177}
+      - {x: -85, y: 175}
+      - {x: -82, y: 175}
+      - {x: -80, y: 177}
+      - {x: -80, y: 180}
+      - {x: -82, y: 182}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
